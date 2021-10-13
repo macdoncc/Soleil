@@ -1,1 +1,31 @@
 # Soleil
+
+Soleil GEOG 582 App Challenge
+
+Syed Mehdi Raza Caitlynn MacDonald Justin Moland October 13, 2021
+
+Contents Team name and bio 3 Mission Statement 4 A link to your app. 4 Characteristics of the app 4 Open-sourced map of solar installations 4 Search by Address or postal Code 5 Cost of Installation 5 Average Annual Solar Production 5 Video Demonstration 5 How to use the app 5 References 6
+
+ Team name and bio Caitlynn
+
+I am a first-year master's student taking the MGIS program at the University of Calgary. I recently graduated with a Bachelor of Science in Geography, where I grew interested in the many applications of GISystems and Science. My hobbies include reading, being active outdoors and playing with my new puppy. Some things I like to do outdoors include cross country skiing, biking, running, and hiking. Justin
+
+I am a fourth-year geography student working towards a BA in geography with a strong interest in GIScience. I have also received a GIS Data Management Certificate of Achievement from SAIT in 2020. My hobbies include Mountain biking mainly in the Kananaskis area as well as hockey. Syed
+
+I am a Civil Engineer with a PEng licence and working for over 8 years. I completed my graduation in 2012 and my master's in Integrated Sustainable Design from NUS in 2020. Currently, I am pursuing MGIS at the University of Calgary. My activities involve participation in the Circular Economy Club and associated research publications. Mission Statement Concerns about climate change and its impacts on human lives have been rising for decades. Currently, it is the top concern for the majority of Canadians, with a survey showing that 88% of Canadians report they have been impacted by climate change. This same survey found that 86% of Canadians want country-wide investment in clean technologies [3]. The UN has made access to affordable and clean energy one of their Sustainable Development Goals (SDGs), specifically Goal 7 [2]. This aligns with the desire of the majority of Canadians. The city of Calgary is one of the sunniest places in Canada. This makes living there a prime opportunity for investing in micro-installations of solar panels, an ever-improving way to harness the energy of the sun to power your home. When you have excess power you can sell it back to the grid, making especially sunny days not only very enjoyable but also profitable. Solar panel use helps reduce greenhouse gas emissions and improve air quality by reducing dependence on fossil fuel energy sources such as coal and natural gas. Solar technologies continue to decrease in price, which along with government subsidies makes these micro-installations increasingly affordable [1]. Our app, Soleil, allows residents who currently have a solar panel micro-installation on their home to upload the data relevant to their installation for others to see. This is meant to use volunteered geographic information and metadata to show other residents who are interested in installing solar panels the cost and benefit of installation. App Link https://arcg.is/1i9bW11 Characteristics of the app Some of the things that make this interesting and useful are that it can be used to help consumers make a more informed choice when it comes to solar energy in their homes. Word of mouth on someone’s experience with something can be an extremely powerful tool and this app can be used to make that experience more useful. Our app Soleil allows for the user to get an honest assessment of the effectiveness of solar panels and to see what the real-world use cases show and if it will apply to them.
+
+Open-sourced map of solar installations This is the primary reason for the app's existence and with it, we hope that awareness and education surrounding solar panel usage will improve
+
+Search by Address or Postal Code This feature allows users to quickly and easily not only find themselves but to look at wherever in the city they desire
+
+Cost of Installation With our findings, over time we will be able to use the information provided and provide an insightful answer as to what the all-in cost of the panels will be and how that compares company to company
+
+Average Annual Solar Production As for the cost of installation, the hope is that over time there will be enough data to get an idea of what the solar production is of the panels based on location in the city to get numbers that are more realistic and accurate as opposed to solar potential numbers. Video Demonstration
+
+How to use the app The app aims to involve the citizens of Calgary City to share their experience with Solar PV installation and usage. The app is open for participation and residents can map their solar installations with variables including (a) size of solar PV cells and installation, (b) cost and year of installation (c) Avg annual electricity production in kWh, and (d) Avg annual cost-benefit along with pictures of their PV cells and setup.
+
+User interface tabs are located on the bottom left, which includes: Draw Add your Solar Project (Image or CSV or other supported formats mentioned) Grid Overlay Report Features (Missing features such as a PV Installation) Directions (For ease of navigation or locating their residence)
+
+ References
+
+[1] Higgins, A., Foliente, G., & McNamara, C. (2011). Modelling intervention options to reduce GHG emissions in housing stock — A diffusion approach. Technological Forecasting & Social Change, 78(4), 621–634. https://doi.org/10.1016/j.techfore.2010.12.003 [2] United Nations (n.d.) The 17 Goals. Department of Economic and Social Affairs: Sustainable Development. Retrieved on October 12, 2021, from: https://sdgs.un.org/goals [3] Vitello, C. (2020). Survey Says: Climate Change Remains the Most Critical Issue for Canadians. Environmental Journal. https://environmentjournal.ca/climate-change-remains-the-most-critical-issue-for-canadians/ Open Government, Government of Canada. (2017, December 10). Open Data. Retrieved from http://open.canada.ca/en/open-data Data Sources for App:https://maps.calgary.ca/SolarPotential/ https://data.calgary.ca/Environment/Solar-Energy-Production/ytdn-2qsp https://www.cer-rec.gc.ca/en/data-analysis/energy-commodities/electricity/report/solar-power-economics/economics-solar-power-in-canada-results.html
